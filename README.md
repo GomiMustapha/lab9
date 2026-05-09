@@ -65,9 +65,7 @@ Résultat observé :
 
 ## Capture à insérer
 
-```md
 ![ADB et Port Forwarding](images/1.png)
-```
 
 ---
 
